@@ -4,7 +4,7 @@
 <details>
 <summary>Web Development Overview</summary>
 
-- 📹 [Eyad Hamza, CIS - Backend Group Video Preparation(only the first video)](https://www.youtube.com/watch?v=ToHfYbxg3ms&list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0&index=1)
+- 📹 [Eyad Hamza, CIS - Backend Group Video Preparation (only the first video)](https://www.youtube.com/watch?v=ToHfYbxg3ms&list=PLIzoD6CTXb3_iILDz7NIGj49stmeoDWh0&index=1)
 </details>
 
 <details>
