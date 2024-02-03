@@ -6,4 +6,4 @@
 
 - Laravel: Up & Running, 3rd Edition
     - [Reed ch3](https://www.oreilly.com/library/view/laravel-up/9781098153250/) 
-    - Simply get feedback on what you understand and practice everything 
+    - Summarize what you understand from each video in a file and practice everything then upload the folder of the task to github or Google drive.  

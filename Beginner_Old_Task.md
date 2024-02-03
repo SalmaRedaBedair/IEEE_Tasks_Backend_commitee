@@ -4,5 +4,5 @@
       - [The New Baghdad MYSQL (Arabic)](https://www.youtube.com/watch?v=Apq8FuGNODM&list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2)
 ---
 - Task
-    - Simply get feedback on what you understand and practice everything with the course 
+    - Summarize what you understand from each video in a file and practice everything then upload the folder of the task to github or Google drive.  
     - If you fail to understand anything you can search [here] (https://www.w3schools.com/sql/default.asp)
