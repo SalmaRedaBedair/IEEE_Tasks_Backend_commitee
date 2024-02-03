@@ -30,4 +30,6 @@
 - 📹 [URIs, URLs, and URNs | Difference between URI and URL](https://www.youtube.com/watch?v=vpYct2npKD8)
 </details>
 
+- Task
+    - Simply get feedback on what you understand and practice everything with the course 
 
