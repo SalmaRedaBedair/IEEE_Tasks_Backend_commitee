@@ -31,5 +31,5 @@
 </details>
 
 - Task
-    - Simply get feedback on what you understand and practice everything with the course 
+    - Summarize what you understand from each video in a file and upload it to github or Google drive.
 
